@@ -1,4 +1,4 @@
-# Model Fitness — Customer Churn Prediction & Segmentation
+# Predicción y Segmentación de Churn – Model Fitness
 
 ## Project Overview
 A data-driven project for the gym chain **Model Fitness**.  
